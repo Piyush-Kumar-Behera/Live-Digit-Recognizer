@@ -1,0 +1,2 @@
+This project is a LIVE digit recognizer which includes drawing the digit as well as recognizing using a LeNet type model trained on the MNIST dataset.
+
